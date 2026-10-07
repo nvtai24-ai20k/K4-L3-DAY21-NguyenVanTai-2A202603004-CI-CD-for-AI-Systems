@@ -6,8 +6,10 @@ data/train_batch1.csv
 data/holdout.csv
 data/train_batch2.csv
 sa-key.json
+aws-key.json
 .env
 .venv/
 __pycache__/
 *.pyc
 .DS_Store
+mlruns/
