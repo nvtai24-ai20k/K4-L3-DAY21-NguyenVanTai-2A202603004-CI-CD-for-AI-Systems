@@ -61,7 +61,7 @@ chọn, F1 weighted là 0,871 trong khi F1 lớp dương chỉ là 0,721.
 
 | | f1_score | accuracy |
 |---|---|---|
-| Bước 2 (chỉ `train_batch1`) | ___ | ___ |
+| Bước 2 (chỉ `train_batch1`) | 0.7207 | 0.8760 |
 | Bước 3 (thêm `train_batch2`) | ___ | ___ |
 
 **Nhận xét:** ___
